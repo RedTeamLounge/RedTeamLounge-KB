@@ -11,13 +11,8 @@ Here you could find a few resources that could help you get started in reversing
 
 ## Videos
 
-* **LiveOverflow** does a great job explaining the basics of binary exploitation.
-
-[https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
-
-* **247CTF** focuses mainly on RE and game hacking.
-
-[https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q](https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q)
+* **LiveOverflow** does a great job explaining the basics of binary exploitation: [https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+* **247CTF** focuses mainly on RE and game hacking: [https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q](https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q)
 
 ## Places to practice
 
