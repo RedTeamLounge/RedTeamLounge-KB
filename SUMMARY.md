@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Red Team Lounge](README.md)
 
 ## Resources
 
 * [Beginner Resources](resources/beginner-resources.md)
-* [Beginner Reverse Engineering](reversing-beginner/reversing.md)
+* [Beginner Reverse Engineering](resources/reversing.md)
+

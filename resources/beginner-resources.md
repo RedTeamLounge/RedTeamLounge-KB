@@ -13,5 +13,3 @@ This is what you will need to get started, you will find a ton more of resources
   * Active Directory Resources: [ADSecurity](https://adsecurity.org/)
   * HackTheBox Writeups: [0xdf](https://0xdf.gitlab.io), [IppSec](https://www.youtube.com/ippsec) \([Index](https://ippsec.rocks)\)
 
-
-
